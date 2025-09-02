@@ -14,8 +14,8 @@ int main() {
     float Area1;                     //Area da cidade em Km²
     float PIB1;                      //PIB da cidade
     int NumeroDePontosTuristicos1;   //Pontos turisticos
-    float Densidade1;
-    float Pibpc1;
+    float Densidade1;                
+    float Pibpc1;                    
     //--------------Carta 2-----------------------------
     char Estado2;
     char CodigoDasCartas2[4];
